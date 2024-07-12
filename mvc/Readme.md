@@ -2,7 +2,7 @@
 
 Use the following endpoint to feed data into the database:
 
-http://localhost:8080/EA3141_Mobile_App_Dev_II_v2/mvc/public/home/create/Madushanka/IMWeeriyasinghe@example.com
+http://localhost:8080/EA3140_Web_App_Dev_II_v2/mvc/public/home/create/Madushanka/IMWeeriyasinghe@example.com
 
 
 ### Notes
